@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The anatomist anatomis'd. Or, a short answer to some things in the book, intituled, An anatomy of independencie: wherein it's shewed; I. That many things reported are mis-reported. II. That if all were true, yet divulging of them in this manner, is not according to the word of God. III. Nor argumentative against the cause that's falsly called independency. By Sidr. Simpson.</title>
+            <author>Simpson, Sidrach, 1600?-1655.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93272</idno><idno type="EEBO-CITATION">99871418</idno>
+  <idno type="VID">155209</idno>
+  <idno type="EEBO-PROQUEST">2240942325</idno>
+  
+            <idno type="STC">Wing S3821</idno>
+            <idno type="STC">Thomason E52_22</idno>
+            <idno type="STC">ESTC R21399</idno>
+            <idno type="PROQUEST">99871418</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871418e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155209)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E52[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The anatomist anatomis'd. Or, a short answer to some things in the book, intituled, An anatomy of independencie: wherein it's shewed; I. That many things reported are mis-reported. II. That if all were true, yet divulging of them in this manner, is not according to the word of God. III. Nor argumentative against the cause that's falsly called independency. By Sidr. Simpson.</title>
+                  <author>Simpson, Sidrach, 1600?-1655.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Peter Cole, at the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 28th".</note>
+                  <note>A reply to: Forbes, Alexander. Anatomy of independency (Wing F1439).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Forbes, Alexander. --  Anatomy of independency.</term>
+               <term type="topical_term">Congregationalism --  Early works to 1800.</term>
+               <term type="topical_term">Independent churches --  England --  Early works to 1800.</term>
+               <term type="topical_term">Separatists --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155209:1"/>
+            <p>THE ANATOMIST ANATOMI'D. OR, A short ANSWER to some things in the Book, Intituled, <hi>An Anatomy of Jndependencie:</hi> Wherein it's shewed;
+<list>
+                  <item>I. That many things reported are mis-reported.</item>
+                  <item>II. That if all were true, yet divulging of them in this manner, is not according to the Word of GOD.</item>
+                  <item>III. Nor Argumentative against the Cause that's falsly called INDEPENDENCY.</item>
+               </list>
+            </p>
+            <q>
+               <bibl>
+                  <hi>GAL. 4.17.</hi>
+               </bibl>
+               <p>They zealously affect you, but not well: They would exclude us, that you might affect them.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>HEER. 12.3.</hi>
+               </bibl>
+               <p>Consider him who indured such contradiction of sinners against himself, lest you be weary and faint in your mindes.</p>
+            </q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+               <bibl>
+                  <hi>Philem apud stob.</hi>
+               </bibl>
+            </q>
+            <p>Id est,</p>
+            <q>
+               <p>Simon revocat ad animum is qui criminationibus appetitur, tum criminationes in ipsum recidunt auctorem.</p>
+               <bibl>
+                  <hi>Interpret. Philip. Camerar. op. hor. subcis. cent.</hi> 3. <hi>c.</hi> 59.</bibl>
+            </q>
+            <p>By SIDR. SIMPSON.</p>
+            <p>London: Printed for <hi>Peter Cole,</hi> at the Royall Exchange. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:155209:2"/>
+            <pb n="3" facs="tcp:155209:2"/>
+            <p>THere are two too usuall errours in handling Con<g ref="char:EOLhyphen"/>troversies. One to make the difference voluminous and many-headed, that so it may appeare more horrid, mon<g ref="char:EOLhyphen"/>strous and irreconcileable: the other to make the Oppo<g ref="char:EOLhyphen"/>sites odious, by charging their reall or supposed faults up<g ref="char:EOLhyphen"/>on their Tenents; for every man is glad to heare some<g ref="char:EOLhyphen"/>thing against those they hate, and ready to believe it with<g ref="char:EOLhyphen"/>out any or on very slight examination.</p>
+            <p>How foule things were reported of Christ and <hi>Paul?</hi> How boldly were the Primitive Christians calumniated,
+<note place="margin">Calumniare and acter aliquid, haercbit.</note> that if all things were not believed by all, yet some thing might be believed by some. <hi>Austin</hi> complaines of <hi>Petilian,</hi> that he fell from the <hi>Cause</hi> to his <hi>Person,</hi> from <hi>Ar<g ref="char:EOLhyphen"/>guments</hi> to Reproaches. So have the Papists dealt with <hi>Luther, Calvin, Beza, Perkins, Whitaker</hi> and others: so dealt <hi>Martin</hi> Mar-prelate (as he called himselfe) for the Presbiteriall government against Episcopacy. But as that course was not blessed by God to reformation, or to mit<g ref="char:EOLhyphen"/>tigation of the Bishops wrath; so neither was it liked or approved by the grave and wise ones of his owne opi<g ref="char:EOLhyphen"/>nion.</p>
+            <p>Both these errours are committed in the present contro<g ref="char:EOLhyphen"/>versies of Church Government, against the Apologists.</p>
+            <p>Some write large Bookes, and lay together all that's writ by any, or reported to be any mans, as though it were maintained by them all, whereas God knowes, the difference lyes but in a very few particulars. And if those particulars with their proper and pinching arguments were once put forth together, there would be more peace
+<pb n="4" facs="tcp:155209:3"/>and truth, and that which now is not, would then be very tollerable.</p>
+            <p>Others fall foule upon their persone.</p>
+            <p>First,
+<note place="margin">That wherein we (that is Bishops and Presbiter) con<g ref="char:EOLhyphen"/>tradict one a<g ref="char:EOLhyphen"/>nother is. We, that is (the Presb.) affirme that all Chur<g ref="char:EOLhyphen"/>ches were sin<g ref="char:EOLhyphen"/>gle Congrega<g ref="char:EOLhyphen"/>tions, equall and Indepen<g ref="char:EOLhyphen"/>dent each on o<g ref="char:EOLhyphen"/>ther in regard of subiection. Bains. Dioc. tr. pag. 13. The Survey of disciplin, writ<g ref="char:EOLhyphen"/>ten by A. Bancr. hath this title of the whole 29. cap. they depend on themselves.</note> to brand them with the name of <hi>Independants.</hi> A name which formerly was proper unto those who stood for Presbiteriall government. Under that very Name, they chose to argue against Bishops, above any other, and the Bishops called them by it. But since it came to be a Reproach, they have put it upon those who count it proud, and insolent, Apol. pag. 23. And lest this Brand should be worne out, and their opinion not hurt their <hi>names,</hi> an ill report is given of them, by their conversation to discredit their <hi>Opinion.</hi> When the Apologet. Narration came first out, many rejoyced in it, and gave us thankes for it; but presently the Authors were reported to be cunning, proud, boasters of themselves, and what not. Blush, and for ever be ashamed O yee Primative Christians, who so oft apo<g ref="char:EOLhyphen"/>logiz'd for your selves unto the Magistrate, and with such expressions of your selves as we have done; you therein shew'd your <hi>pride</hi> and <hi>arrogance;</hi> you sought not favour from the State to serve God freely, but you sought the praise of men. For ever let the name and use of Apologies cease from the world; their maine end is to shew forth the Authors Integrity, to doe which now is judged Guile, Selfe-love, boasting, and Partiality.</p>
+            <p>But besides that report, there is an Antapology in Presse, or a Collection of such faults as either mens mistakes and malice, or perhaps mens owne infirmities have made, ei<g ref="char:EOLhyphen"/>ther beyond the Seas or here. This <hi>Anatomist</hi> is a fore<g ref="char:EOLhyphen"/>runner to that, as some few great drops before a shower. Though of all the men against whom it is directed. I count my selfe the most unworthy and unable: though in whatsoever I am guilty before men, I will confesse inge<g ref="char:EOLhyphen"/>niously.</p>
+            <pb n="5" facs="tcp:155209:3"/>
+            <p> Others may see more by me then I doe my selfe.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Sophoc. Moribus eva<g ref="char:EOLhyphen"/>dam melior ut illos dictis pari<g ref="char:EOLhyphen"/>ter &amp; factis mendacii con<g ref="char:EOLhyphen"/>vineam. Phil. Maced.</note> I may get more by knowledge of my sinne, then I can loose by having it made knowne: yet being innocent in what by name is charged so often on me, I durst not but make it knowne, not for my owne sake so much, as least the truth and way of God should suffer.</p>
+            <p>I shall indeavour to shew these three things.</p>
+            <p n="1">1. That it's not a way of God <hi>thus</hi> to divulge mens per<g ref="char:EOLhyphen"/>sonall faults.</p>
+            <p n="2">2. Nor rationall or conducing to decide any or this Controversie.</p>
+            <p n="3">3. That things are not as they are reported.</p>
+            <p>First, suppose all that is said were true and more,
+<note place="margin">Iewell, Apol. ca. 3. div. 2.</note> yet this way of bruiting of it is not <hi>Christian.</hi> No man should suddenly receive or take up a report against another, Pro. 25.23. much lesse against those who desire to be godly and are at least so accounted, and least of all against such as are Elders, 1 Tim. 5.19.</p>
+            <p>Either the fault reported is repented of or not. If it be, shall we lay open what the Lord hath covered? If it be not, before a <hi>Church</hi> may declare the sin of any Member, the fact must first be proved, and then the party laboured with to come unto Repentance: This is the Law of Christ himselfe, Matth. 18.16, 17. much lesse then may a pri<g ref="char:EOLhyphen"/>vate person tell it and not take that course.</p>
+            <p>Without two or three Witnesses produc'd, the fault must not be told to a <hi>particular Church;</hi> much lesse may it be told to all the Churches in the world, as Printing doth.</p>
+            <p>Gods way is not onely to heale the <hi>wound,</hi> but to pre<g ref="char:EOLhyphen"/>vent a <hi>scarre.</hi> He doth as well consult his peoples Name as Holinesse. And therefore the Casuists doe well resolve, That he who tells abroad a Fault he knowes and can suf<g ref="char:EOLhyphen"/>ficiently prove, before he have proved it, and the offendor
+<pb n="6" facs="tcp:155209:4"/>do refuse to hear the Church, is as well to be punisht as a scandall to Religion, as he, is that did commit the Fact.</p>
+            <p>But not only to divulge unproved Acts, but upon hear<g ref="char:EOLhyphen"/>sayes, and for this end to bring an <hi>odium</hi> upon the parties, and on what they hold or do in matters of Religion; and yet the Author or Reporters name must not be known (perhaps his very Name would infirm his Testimony) what is it, but the highest breach of <hi>Love</hi> and <hi>Iustice?</hi>
+            </p>
+            <p>The Apologists are called Proud, &amp;c. because they did protest their own Integrity, when there was need: what will men think of them, who labour to make all men black and foul besides themselves?</p>
+            <p>To do thus, is a helplesse, remedilesse Oppression: what course shall men take to save or gain their Names? what satisfaction can men have if they be wronged? private ac<g ref="char:EOLhyphen"/>knowledgement they cannot have, because the Author is not known: and if he were, and would acknowledge it, that cannot satisfie, because the wrong is publique. Shall they clear themselves by Writing?
+<note place="margin">
+                  <hi>Nihil est tam voluere quam maledictum. Nihil facilius emittitur, nihil citius excipitur &amp; lati<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s dissi<g ref="char:EOLhyphen"/>patur.</hi> Cicer.</note> Truth hardly will overtake a Lye that is set out, four or five dayes before it. Will the Reporter, or the <hi>Imprimatur</hi> write themselves Deceived, Misinformed, Abused, Accusers of their Bre<g ref="char:EOLhyphen"/>thren? That will hardly be: where shall the wronged be relieved, or the Truth made known?</p>
+            <p>If it be lawfull for one Part to take this course, it's law<g ref="char:EOLhyphen"/>full for the other; and then, who shall be innocent? who can escape? who cannot finde enough, even in the best, to darken and ecclypse their Glory? And if that should be, Religion will be made a mock and scorn between them both. What will that Religion be esteem'd, in whose pro<g ref="char:EOLhyphen"/>fessors there's so little love to one another, and so many faults?</p>
+            <p>Injuries affect men more then Favours. It's a harder
+<pb n="7" facs="tcp:155209:4"/>matter to indure <hi>ill words</hi> then <hi>ill deeds,</hi>
+               <note place="margin">Injuriae vulnus altius penetrat quam beneficii gratia.</note> a <hi>contumely</hi> to ones Name, then a <hi>dammage</hi> in Estate. And if any be by this course tempted to recriminate, though Religion suffer, he that tempted to it, is most guilty, and must bear the blame.</p>
+            <p>Lastly, the very Law of Nature hath condemned this.
+<note place="margin">
+                  <hi>L.</hi> 1.2. <hi>de legi<g ref="char:EOLhyphen"/>bus. Omitto hic poe<g ref="char:EOLhyphen"/>nam legis Rem<g ref="char:EOLhyphen"/>miae qua stigma literae K. fronti calumniaetoris sive (ut veterum Orthographia e<g ref="char:EOLhyphen"/>rat) Kalumnia<g ref="char:EOLhyphen"/>toris murcha<g ref="char:EOLhyphen"/>tur ut ab omni<g ref="char:EOLhyphen"/>bus agrosci que<g ref="char:EOLhyphen"/>at. Phil. Camer. hor. sube. cent.</hi> 3 <hi>cap.</hi> 59. <hi>Nemo cuiquam conviciator. Qui vero cum aliquo aliqua de re disceptat dis<g ref="char:EOLhyphen"/>cito ipse &amp; do<g ref="char:EOLhyphen"/>ceto eum. Et a maledictis pror<g ref="char:EOLhyphen"/>sus abstineto. Plato, l.</hi> 2. <hi>de leg.</hi>
+               </note>
+               <hi>Plato</hi> calls such, Mad-men, and thinks no commonwealth should suffer them: And <hi>lege Remmia,</hi> they were to be branded with a <hi>K</hi> in the forehead, that all men might know them. But I will say no more of this, some may perhaps conceive it as a signe of guilt, to speak so much.</p>
+            <p n="2">II. Suppose Reports were true, yet to report them, no wayes helps to end the Controversie: It may provoke, but not confute. There is no reasoning from the quality of the person to his cause; as thus, Such a one is an unclean person; Therefore his cause in Law is bad. Or thus, Such a one is lewd; Therefore that Religion is not true he doth professe. Is not Christ the Saviour, because <hi>Judas</hi> who acknowledged him was treacherous? The more spirituall and Divine any wayes are, the more corruptions do break forth in those that walk not with a strait foot in them, as the most healing Playsters draw out the most filthy pu<g ref="char:EOLhyphen"/>trid matter.</p>
+            <p>Either Opinions are the cause of such vile acts or not; if they be not, why are they blamed for them; if they be, unlesse the holders of them took them up because they were so; they are not to be <hi>Reviled,</hi> but <hi>Instructed;</hi> their opinion must be blamed, and not they.</p>
+            <p>What consequence is there between any thing it's said I did, and this main Assertion of the Apology <hi>[That one Church may Non-Communion, but not Excommunicate ano<g ref="char:EOLhyphen"/>ther?]</hi> Did this silence me from confessing sin, or preach<g ref="char:EOLhyphen"/>ing the Law, &amp;c? Did this make me make a Covenant
+<pb n="8" facs="tcp:155209:5"/>with the Separation, or dislike Ruling-Elders, or principle me to Anabaptisme?</p>
+            <p>What advantage can the Cause or Authors have by these Reports? Think they to get more into peoples hearts with their opinions? God takes the wise in their own craftinesse, and will destroy such wisdom. Needs truth such ways? Either your selves are free from faults or not. If not, you must no more be beleeved, then you would have them whose faults you tell; suppose you be, truth grows not on the heapes and ruines of mens names; nor is to be received for mens testimony: but not for theirs of all men, who doe calumniate. All men doe suspect the cause, when as the persons of the witnesses against it, are tradu<g ref="char:EOLhyphen"/>ced. Good men wil mourn, and try more narrowly: Others wil laugh, and scoff, and grow more carelesse what opinion is set up. This will be all they'l get.</p>
+            <p>Is this your aym, to make us be despised of the people; The best way to that, were to have proved things <hi>orderly</hi> and <hi>fully:</hi> and that all our faults come from our <hi>Cause,</hi> as well as from our selves.</p>
+            <p>Or is this your aym, by Oppression to provoke us to write more of you, then you have done of us: That so, if we cannot be punisht for any foulnesse in opinion, yet wee may be for unpeaceablenesse: For so the Jesuit reports it was in the Palatinate; The Calvinists preacht against the Lutherans, and then the Lutherans preacht against them: But the Prince being a Calvinist, turn'd out the Luthe<g ref="char:EOLhyphen"/>rans, yet not for their Religion (he said) but for their <hi>un<g ref="char:EOLhyphen"/>quietnesse.</hi>
+            </p>
+            <p n="3">III. Things were not as they are reported.</p>
+            <p>
+               <q>
+                  <hi>Pag.</hi> 6. He saith, A <hi>great</hi> part of that Church did without further leave or order, or giving any satisfaction for offences, abandon the Church, and joyned with o<g ref="char:EOLhyphen"/>thers to the erecting of that Church, whereof Mr. <hi>Simp<g ref="char:EOLhyphen"/>son</hi>
+                  <pb n="9" facs="tcp:155209:5"/>was Pastor, and were by him received without any more adoe, notwithstanding that their schisme.</q>
+            </p>
+            <p>The truth is,</p>
+            <p n="1">1. That none that ever were of that Church did joyne to the erecting of that Church where I was. They were all such as had not joynd themselves to any Congregation before.</p>
+            <p n="2">2. A great part of that Church never did at any time joyne to them. They were a very few.</p>
+            <p n="3">3. We tooke this course in taking them who were. They having a long time discontinued their Communion there, and for ten moneths were denyed admission by us, though they earnestly requested it; we sent some chosen men together with those persons unto the Officers of that Church, to know whither they esteemed them their Members, or had any thing against them: and we had this answer, that they had nothing against them, and accoun<g ref="char:EOLhyphen"/>ted them not as belonging to them: so that we might re<g ref="char:EOLhyphen"/>ceive them if we would.</p>
+            <p>
+               <q>Pag. 6, 7. The defection of some of their Members to Anabaptisme—how apt are others of them to be made a prey therein more then the Members of other Refor<g ref="char:EOLhyphen"/>med Churches, as late instance hath manifested, some having professed Master <hi>Sympsons</hi> principles have made them Anabaptists.</q>
+            </p>
+            <p n="1">1. This some, that professed so, is but one of all that e<g ref="char:EOLhyphen"/>ver I have heard.</p>
+            <p n="2">2. My principles whereon he hath profest (as he him<g ref="char:EOLhyphen"/>selfe hath testified before many) are not principles in Church Government, but in Doctrine, and they are none of mine, but all reformed Churches: and therefore ren<g ref="char:EOLhyphen"/>der us no apter to be made a prey then they do them.</p>
+            <p>Some have profest the Nonconformists principles lead unto separation, as <hi>Morton, Def. Inno. Cer. sect.</hi> 41. <hi>Can. &amp;c.</hi>
+            </p>
+            <p>Some of late too, have charg'd their turning
+<pb n="10" facs="tcp:155209:6"/>Anabapt. upon the principles of Presbiteriall men; It's nothing what men doe professe but what doth directly leade unto such errours. Those who have Apostatiz'd from Protestants to Popery, have ever laid the grounds upon Protestants. Let it be shewed that my principles doe necessarily bring forth such opinions: or that he must needs be an Anabaptist, who holds one Church cannot excommunicate another, and you have said something.</p>
+            <p n="4">4. What slaming sword is there in the hand of a Classi<g ref="char:EOLhyphen"/>call Presbitery to keepe men out of errours which may not be in a Congregation? In one Congregation there may be as many Presbiters as from many Congregations make a Classis; and why then may they not doe the selfe same acts? their Officers and Office is the same, and therefore the promise of assistance is the same. And if the Counsell and advise of other neighbour Churches be re<g ref="char:EOLhyphen"/>quired, a congregation may have that as well, and perhaps sooner then a Classis can, which must stay for a Provin<g ref="char:EOLhyphen"/>ciall Synod.</p>
+            <p n="5">5. There have been as great defections both of Ministers and people unto errours, under Presbiteriall government as under any other: as is cleare in the Low Countries where so many Ministers &amp; people turn'd Arminians, Pa<g ref="char:EOLhyphen"/>pists, Socinians. (Greater errours then the deniall of Pae<g ref="char:EOLhyphen"/>dobaptisme) and in other Countries too.</p>
+            <p>
+               <q>Pag. 14. Master <hi>Sympsons</hi> Church Preached in a <hi>private</hi> house, which they then fitted to be a publick allowed Chucch since.</q>
+            </p>
+            <p>Sixe Moneths at least before the Church was gathered, we had a publick act to doe it, by the state of Rotterdam. We were oftimes bidden by the Magistrate to find out a place or ground, fit to meet in or to build upon, and it should be granted to us.</p>
+            <p>The place wherein we met, was in an open street, a no<g ref="char:EOLhyphen"/>ted
+<pb n="11" facs="tcp:155209:6"/>place, neer the Exchange, where all that would might come, frequented by the Dutch, of that and severall cities who understood our Language. Nor can it be more pub<g ref="char:EOLhyphen"/>liquely allowed since, for the publique Act runs thus;</p>
+            <p>To have such Ministers as they shall chuse from time to time, and such Discipline as they conceive to be according to the Word of God, and to be protected in this with the same care and love our own Natives are.</p>
+            <p>
+               <q>
+                  <hi>Pag.</hi> 24. There is a mutuall Covenant between Mr. <hi>Sympsons</hi> Church, and those of the Separation at <hi>Amster<g ref="char:EOLhyphen"/>dam</hi> to own each other.</q>
+            </p>
+            <p>This was not in my time, nor have I heard it hitherto.</p>
+            <p>How near soever they are joyned, yet this I am sure is not to any Separation from the Churches of Christ, though they be not of their judgements for Church-Government.</p>
+            <p>
+               <q>
+                  <hi>Pag.</hi> 25. Mr. <hi>Sympsons</hi> Prayers and Sermons con<g ref="char:EOLhyphen"/>tained little or no matter of Confession of sin, or threat<g ref="char:EOLhyphen"/>ning of judgement, or what concern'd the Law or Re<g ref="char:EOLhyphen"/>pentance: But exalting the grace of God in Christ al<g ref="char:EOLhyphen"/>ready wrought, and of Thanksgiving, as being <hi>bound</hi> to frame his Sermons, and direct his speech to the bene<g ref="char:EOLhyphen"/>fit of none, but those of his own Church, on whom he looked as already converted, and not to aym at the con<g ref="char:EOLhyphen"/>version of any, it being the ordinary Opinion among them, that this is not the work of a Pastour.</q>
+            </p>
+            <p n="1">1. Its neither the ordinary Opinion, nor of any one that ever I heard of, but the contrary, much lesse was I bound unto it.</p>
+            <p>I preached for the use of the Law, on <hi>Luke</hi> 1.74, 75. and of Repentance, on another Text. What ever Text I preacht on, this ordinarily was one use, to shew the misery of men in their naturall condition, and without Jesus Christ. In all my prayers I confessed both the sins of the Church and others, and prayed for grace and pardon to
+<pb n="12" facs="tcp:155209:7"/>them both; though for the Church especially. I exalted grace, to give sinners hope, to make sin more vile, &amp; believers more thankfull; and if that be an error, its my duty to bee more erroneous. And as wee sought the conversio of all, so <hi>God</hi> was pleased to convert some by us.</p>
+            <p>Is this a crime, to be more in exalting grace, then in threatning judgements? To shew there is more grace in Christ, then sin in men? Will men be converted more by hearing of Hell, then Christ?</p>
+            <p>
+               <q>
+                  <hi>Pag.</hi> 26. Mr. <hi>Sympson</hi> had no ruling Elders, but thought that Office unlawfull.</q>
+            </p>
+            <p>Its true <hi>de facto</hi> we had none, but were resolved to have them. Their Office and duty hath been opened by me, and the Church in<g ref="char:EOLhyphen"/>formed of their necessary use. I know not that ever any word was spoken, or any thing insinuated against that Office by me.</p>
+            <p>But if I were, I should not be alone. All that allow the Presbyte<g ref="char:EOLhyphen"/>riall Government, allow not them: and some that do, yet think there is no <hi>lus divinum</hi> for them: So that what ever evill follows my sup<g ref="char:EOLhyphen"/>posed Tenent, follows from your selves aswell.</p>
+            <p>
+               <q>It were too long to set downe all mistakes, as p. 12. We chose our banishment, p. 26. we doe not think it lawfull to use the Lords Prayer in publick, and most loudly, p. 27, 28. It was voted that some men (who said they would complaine unto the Magistrates of them) should instantly be excommunicated.</q> Whereas</p>
+            <p n="1">1. There was no such thing at that or any other time put to a Question, much lesse voted.</p>
+            <p n="2">2. Nor was it complaining to the Magistrate that was their crime, but such other faults as no reformed Church would beare.</p>
+            <p>But because these doe not ayme at me by name I'le let them passe a while, with many others. As Anatomists dissect one part one day, and then another I have begun first with the head and tongue. The Tongue that's sweld and black, argues ill bloud and spleene, over<g ref="char:EOLhyphen"/>flowing of the Gall, and too much inward heate.</p>
+            <p>Let me set this seale to all, that what I have related, there are not a few (on this side and beyond the Seas) men of untoucht credit and knowne faithfulnesse who will avow it.</p>
+            <p>If I may but obtaine this, that the Reader will not beleeve those or any other Reports of this kind, which are either in that booke, or in what is comming forth, untill the Authors of them will appeare and bring their Witnesses to a faire hearing in any <hi>lawfull</hi> though the <hi>strictest</hi> Judicature, where we may suffer if we have done what's re<g ref="char:EOLhyphen"/>ported, or else the Reporters may: (a small and just request) I have the scope and end I ayme at.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
